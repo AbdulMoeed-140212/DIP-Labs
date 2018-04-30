@@ -1,2 +1,2 @@
 # DIP-Labs
-Lab2 of Digital Image Processing spring 2018
+Labs of Digital Image Processing spring 2018
